@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.32c1911d.css",
-    "main.js": "/static/js/main.f9855d3c.js",
-    "index.html": "/index.html",
-    "main.32c1911d.css.map": "/static/css/main.32c1911d.css.map",
-    "main.f9855d3c.js.map": "/static/js/main.f9855d3c.js.map"
+    "main.css": "/keeper-react/static/css/main.32c1911d.css",
+    "main.js": "/keeper-react/static/js/main.f9855d3c.js",
+    "index.html": "/keeper-react/index.html",
+    "main.32c1911d.css.map": "/keeper-react/static/css/main.32c1911d.css.map",
+    "main.f9855d3c.js.map": "/keeper-react/static/js/main.f9855d3c.js.map"
   },
   "entrypoints": [
     "static/css/main.32c1911d.css",
