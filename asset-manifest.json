@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/howardi/keeper-react/static/css/main.32c1911d.css",
+    "main.js": "/howardi/keeper-react/static/js/main.f9855d3c.js",
+    "index.html": "/howardi/keeper-react/index.html",
+    "main.32c1911d.css.map": "/howardi/keeper-react/static/css/main.32c1911d.css.map",
+    "main.f9855d3c.js.map": "/howardi/keeper-react/static/js/main.f9855d3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c1911d.css",
+    "static/js/main.f9855d3c.js"
+  ]
+}
